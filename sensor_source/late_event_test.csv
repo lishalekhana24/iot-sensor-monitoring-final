@@ -1,0 +1,2 @@
+event_id,device_id,location,event_time,temperature,humidity
+L001,D301,Chennai,2026-10-03 08:00:00,39.0,65

@@ -1,0 +1,5 @@
+event_id,device_id,location,event_time,temperature,humidity
+I001,D201,Chennai,2026-10-03 09:15:00,abc,60
+I002,D202,Chennai,2026-10-03 09:16:00,150,60
+I003,D203,Chennai,2026-10-03 09:17:00,30,150
+I004,D204,Chennai,not-a-time,35,70

@@ -1,0 +1,4 @@
+event_id,device_id,location,event_time,temperature,humidity
+E009,D101,Lucknow,2026-10-03 09:01:00,33.5,62
+E010,D102,Kanpur,2026-10-03 09:04:00,39.2,65
+E011,D103,Delhi,2026-10-03 09:12:00,42.5,54
